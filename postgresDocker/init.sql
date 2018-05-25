@@ -1,0 +1,3 @@
+CREATE USER gegen;
+CREATE DATABASE onlineexam;
+GRANT ALL PRIVILEGES ON DATABASE onlineexam TO gegen;
